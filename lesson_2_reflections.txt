@@ -14,3 +14,7 @@ I really have no idea!
 
 Branches are to go to a different road. Then I can choose which road I want to follow finally.
 
+5. How do the diagrams help you visualize the branch structure?
+
+You can see the whole "tree" you 've made with all the branches and "nodes".
+
