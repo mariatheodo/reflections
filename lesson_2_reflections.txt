@@ -18,3 +18,7 @@ Branches are to go to a different road. Then I can choose which road I want to f
 
 You can see the whole "tree" you 've made with all the branches and "nodes".
 
+6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The two files merge into one which embodies the changes to both of them.
+
