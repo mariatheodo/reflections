@@ -22,3 +22,6 @@ You can see the whole "tree" you 've made with all the branches and "nodes".
 
 The two files merge into one which embodies the changes to both of them.
 
+7. What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+I probably will never merge. 
