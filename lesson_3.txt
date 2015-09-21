@@ -2,3 +2,6 @@
 
 When working on two or more computers is a necessity or just to have a backup or even when there's need of other contributors to follow along.
 
+2. Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+For the same reason you make commitments and don't have it automatically made.
