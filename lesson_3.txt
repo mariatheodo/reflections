@@ -1,1 +1,4 @@
-What about commiting to a remote area as GitHub?
+1. When would you want to use a remote repository rather than keeping all your work local?
+
+When working on two or more computers is a necessity or just to have a backup or even when there's need of other contributors to follow along.
+
